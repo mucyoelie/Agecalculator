@@ -93,5 +93,11 @@ body{
 .calculator h1{
     font-size: 50px;
 }
-    
+#result{
+    font-size: 22px;
+}
+.input-box button{
+    font-size: 18px;
+    font-weight: bolder;
+}
 }
